@@ -1,0 +1,83 @@
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: greenyellow;
+}
+
+
+header{
+    background-color: blueviolet;
+    padding: 10px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+
+.genero {
+    background-color: darkolivegreen;
+    margin: 20px;
+    padding: 20px;
+    height: 100px;
+    padding-bottom: 70px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.genero select{
+    font-size: 30px;
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+
+}
+
+
+#hobbies{
+    font-size: 20px;
+    padding: 30px;
+    background-color: lightblue;
+    margin: 20px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+}
+
+#buscarhobbies {
+    margin: 40px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+
+#resultados .person-row {
+    padding: 50px;
+    background-color: rosybrown;
+    margin: 20px;
+    font-size: 30px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 80px;
+}
+
+.person-row button{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    float: right;
+    border-radius: 20px;
+}
+
+
+
+
+input{
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 10px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    float: left;
+}
+
